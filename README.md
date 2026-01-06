@@ -23,18 +23,19 @@ The goal is to build **realistic, clean, and modular examples** that reflect rea
 Backend-Playground/
 │
 ├── dbConnections/
-│   └── backEndDbConnection/
-│       ├── Controllers/
-│       ├── Data/
-│       ├── Models/
-│       ├── Program.cs
-│       └── appsettings.json
-│	└── PaginationApi/
-│       ├── Controllers/
-│       ├── Repositories/
-│       ├── Models/
-│       ├── Program.cs
-│       └── appsettings.json
+│ ├── backEndDbConnection/
+│ │ ├── Controllers/
+│ │ ├── Data/
+│ │ ├── Models/
+│ │ ├── Program.cs
+│ │ └── appsettings.json
+│ │
+│ └── PaginationApi/
+│ ├── Controllers/
+│ ├── Repositories/
+│ ├── Models/
+│ ├── Program.cs
+│ └── appsettings.json
 │
 ├── .gitignore
 ├── README.md
