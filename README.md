@@ -35,7 +35,7 @@ Backend-Playground/
 │ │ ├── Repositories/
 │ │ ├── Models/
 │ │ ├── Program.cs
-│ │ └── appsettings.json
+│   └── appsettings.json
 │
 ├── .gitignore
 ├── README.md
