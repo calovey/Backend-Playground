@@ -1,0 +1,6 @@
+@PaginationApi_HostAddress = http://localhost:5066
+
+GET {{PaginationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
