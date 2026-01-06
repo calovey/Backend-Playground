@@ -29,6 +29,12 @@ Backend-Playground/
 │       ├── Models/
 │       ├── Program.cs
 │       └── appsettings.json
+│	└── PaginationApi/
+│       ├── Controllers/
+│       ├── Repositories/
+│       ├── Models/
+│       ├── Program.cs
+│       └── appsettings.json
 │
 ├── .gitignore
 ├── README.md
